@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kartik2559
-- 👀 I’m interested in Data Analysis, ML and AI
-- 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on Data Exploratry, Cleaning and Visualisation projects
+- 👀 I’m interested in Data Science, ML and AI
+- 🌱 I’m currently learning Product Analytics
+- 💞️ I’m looking to collaborate on any Data Science project
 - 📫 You can reach me via email - parkar2619@gmail.com
 
 <!---
